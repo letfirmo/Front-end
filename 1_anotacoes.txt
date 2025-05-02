@@ -1,0 +1,37 @@
+#Tipos de vaariáveis:
+- number -> números
+- string -> texto
+- boolean -> V ou F
+- function -> criação de função
+- object -> 
+- undefined -> indefinido
+- null -> inexistente
+
+    #Declaração de variáveis:
+    - var -> não é muito utilizado
+    - let -> pode ser modificado
+    - const -> não pode ser modificado
+
+#Operadores Aritmético
++, -, *, /, % (resto de uma divisão), += (incremento), -= (decremento)
+
+#Operadores de comparação
+== [igual a (valor)]
+=== [estritamente igual a (valor e tipo)]
+!=, >, >=, <, <=
+
+#If (condição) {
+    //true
+}else{
+    //false
+} 
+
+#Ternário
+
+variavel = <condicao> ? <retorno caso verdadeiro> : <retorno caso falso>;
+
+#Operadores lógicos
+- && (e)
+- || (ou)
+- ! (negação)
+
