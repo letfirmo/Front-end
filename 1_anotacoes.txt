@@ -35,3 +35,16 @@ variavel = <condicao> ? <retorno caso verdadeiro> : <retorno caso falso>;
 - || (ou)
 - ! (negação)
 
+##ARRAY E ESTRUTURA DE REPETIÇÃO
+
+#Adicionar e remover um elemento de um ARRAY
+- push (aadiciona no final)
+- unshift (adiciona no inicio)
+- pop (remove o ultimo elemento)
+- shift (remove o primeiro elemento)
+
+#estrutura de repetição for
+
+for(inicialização; condição; incremento) {
+    código...
+}
