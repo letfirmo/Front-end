@@ -48,3 +48,5 @@ variavel = <condicao> ? <retorno caso verdadeiro> : <retorno caso falso>;
 for(inicialização; condição; incremento) {
     código...
 }
+
+##FUNCOES
